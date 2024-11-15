@@ -16,5 +16,5 @@ The repository includes the following directories and files:
 
 - **5_Stack_Overflow_loading_multiple_files.sql**: Load of multiple tables from the command line for posterior analysis.  
 
-- **6_Nashville_Housing.sql**: SQL queries to clean the data set.
+- **6_Nashville_Housing.sql**: SQL queries to clean up the dataset and make it more useful.
 
